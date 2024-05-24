@@ -1,0 +1,2 @@
+lista = ["MEXICO", "ARGENTINA", "PORTUGAL", "CHINA", "RUSIA", "ESTADOS UNIDOS", "JAPON", "ESPAÑA", "CHILE", "BRASIL"]
+print(lista)
